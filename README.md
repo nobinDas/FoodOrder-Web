@@ -1,2 +1,1 @@
-# FoodOrder-Web
-Utilized JavaScript, HTML5, Express, and Mongoose, to create a web application that allows users to establish individual session for ordering food from selected restaurants.
+Used a database to store user profile and order information. Additionally, added session support to the application so that users may log in, place orders, and view a history of their orders. Users will also have the option of setting their own profile to private/public, which will limit who can view their order history.
